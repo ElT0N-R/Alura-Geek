@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Action figure Darth Vader",
+      "price": "109,90",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMCO7AMAzwbTdRlt2deZKmLL7w-84psxytEkTZARVPLk-wP4_VO8TmYZdsVSGg5wmpeTDmq1yJ3b5p7G1vbWp_VViqrmhSjDYvwTNXppW2W7Is1NgpBU-DTtCEjWb4_kM_bG_aoow&usqp=CAc",
+      "id": 1
+    },
+    {
+      "name": "PlayStation 5 PRO",
+      "price": "6.999,99",
+      "image": "https://tm.ibxk.com.br/2024/09/10/10121603096155.jpg?ims=750x",
+      "id": 2
+    },
+    {
+      "name": "Lego Star Wars Millenium Falcon",
+      "price": "1199,90",
+      "image": "https://m.media-amazon.com/images/I/81PhO-kyPuL.jpg",
+      "id": 4
+    },
+    {
+      "name": "Microsoft Xbox Series X",
+      "price": "4.999,00",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQSi66AYmEnAPIlh0iqlTwqtQ3r9LKHMN98ziT_6h8WzrLfjcbODkUKVey2qSQZKHiSM4QvHhY7pWd4OTHkvvKbjZLM_gHv7M9vIlljSchOwq5saIKwtfjZBr85BgPaYwXOiz7OMw&usqp=CAc",
+      "id": 5
+    },
+    {
+      "name": "jogo Read Dead Redeption 2 PS5",
+      "price": "59,90",
+      "image": "https://dw0jruhdg6fis.cloudfront.net/producao/29083461/G/89583dd386.jpg",
+      "id": 6
+    },
+    {
+      "name": "Funko Frodo ",
+      "price": "100",
+      "image": "https://m.media-amazon.com/images/I/61Od4zcvIcL.jpg",
+      "id": 7
+    },
+    {
+      "name": "Drone Espião",
+      "price": "799,00",
+      "image": "https://loja.superimportadora.com.br/wp-content/uploads/2023/09/drone-dji-mini-4-pro-dji-rc-1.jpeg",
+      "id": 8
+    }
+  ]
+}

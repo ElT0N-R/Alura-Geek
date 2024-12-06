@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles/reset.css">
+	<link rel="stylesheet" href="styles/style.css">
+	<title>AluraGeek</title>
+</head>
+<body>
+	 <!-- Cabeçalho -->
+	 <header class="header">
+        <img class="img_Header" src="/src/img/DALL·E 2024-11-28 16.22.36 - A modern and gamified logo design for 'Alura Geek'. The logo should have a sleek and futuristic font with a gaming aesthetic. The text 'Alura Geek' sh.webp" alt="logo alurageek" width="60"/>
+        <div class="header-h1">
+            <h1>
+                ALURA GEEK
+            </h1>
+        </div>
+    </header>
+
+    <!-- Container principal -->
+    <main  class="container-principal">
+        <section>
+            <div><h1 class="container-principal-h1">MEUS PRODUTOS</h1>
+            </div>
+            <div data-product class="container-produtos"></div>
+        </section>
+
+        <!-- Seção de adicionar produtos -->
+        <section>
+            <h1>ADICIONAR PRODUTOS:</h1>
+
+            <!-- Formulário para adicionar produtos -->
+            <form class="container-formulario" data-form>
+                <input data-name placeholder="nome..." type="text">
+                <input data-price placeholder="preço..." type="text">
+                <input data-image placeholder="imagem..." type="text">
+                <span data-mensagem class="mensagemErro"></span>
+                <div class="container-botoes">
+                    <button type="submit" class="botao-enviar" id="botao">Enviar...</button>
+                    <button type="reset" class="botao-limpar" id="botao">Limpar...</button>
+                </div>
+            </form>
+            
+        </section>
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="container-rodape">
+        <div>
+            <img src="/src/img/DALL·E 2024-11-28 21.29.40 - A modern and gamified logo design for 'Alura Geek'. The logo prominently features the text 'ALURA GEEK' written with perfect clarity in a bold, futuri.webp" width="70"/>
+        </div>
+        <p> Desenvolvido por <a class="_a" href="https://github.com/ElT0N-R/ElT0N-R" style="color: #ccc;" target="_blank">Elton</a></p>
+        <small>Alura Latam 2024</small>
+    </footer>
+	<script type="module" src="/src/js/controllers/main.js"></script>
+</body>
+</html>
